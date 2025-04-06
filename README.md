@@ -34,15 +34,12 @@ We also need to install CUDA-Toolkit.
 We also need to install cuDNN.  
 - [Download cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)
 
----
+### STEP 06 : Install PyTorch
+We need to install PyTorch-Cuda supported. 
+- [Install PyTorch](https://pytorch.org/get-started/locally/)
 
-## ✅ Driver Installation
-
-1. Go to the [NVIDIA Driver Downloads](https://www.nvidia.com/Download/index.aspx).
-2. Select your GPU model and OS.
-3. Download and install the driver.
-4. Restart your system.
-
-🛠 To verify driver:
+### Finally run the following script to test your GPU
 ```bash
-nvidia-smi
+import torch
+
+print("Number of GPU :",torch.cuda.device_count())
