@@ -7,18 +7,6 @@ This repository provides a comprehensive guide on how to install and configure a
 
 ---
 
-## 📦 Contents
-
-- [System Requirements](#system-requirements)
-- [Driver Installation](#driver-installation)
-- [CUDA Toolkit Installation](#cuda-toolkit-installation)
-- [cuDNN Installation](#cudnn-installation)
-- [Verify Installation](#verify-installation)
-- [Optional: PyTorch/TensorFlow GPU Setup](#optional-pytorchtensorflow-gpu-setup)
-- [Troubleshooting](#troubleshooting)
-
----
-
 ## 🖥️ System Requirements
 
 - NVIDIA GPU (Maxwell architecture or newer recommended)
