@@ -9,7 +9,9 @@ This repository provides a comprehensive guide on how to install and configure a
 
 ## 🖥️ Step-by-Step Procedure :
 
-### STEP 01:
+### STEP 01 : NVIDIA DRIVER -
+We should install the latest version of our GPU's driver. It can be downloaded from:
+- c
 ---
 
 ## ✅ Driver Installation
