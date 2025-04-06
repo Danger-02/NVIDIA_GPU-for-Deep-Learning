@@ -12,23 +12,27 @@ This repository provides a comprehensive guide on how to install and configure a
 ### STEP 01 : NVIDIA Driver  
 
 We should install the latest version of our GPU's driver. It can be downloaded from:   
-- [NVIDIA GPU Driver Download](https://www.nvidia.com/en-us/drivers/).
+- [NVIDIA GPU Driver Download](https://www.nvidia.com/en-us/drivers/)
 
 ### STEP 02 : Visual Studio C++
 
 We need Visual Studio, with C++ installed. By default, C++ is not available with Visual Studio, so make sure to select all C++ options.  
-- [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/vs/community/).
+- [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/vs/community/)
 
 ### STEP 03 : Anaconda/ Miniconda
 
 We will need Ananconda or Miniconda to install deep learning packages.  
-- [Anaconda Download Site](https://www.anaconda.com/download).
+- [Anaconda Download Site](https://www.anaconda.com/download)
 
 ### STEP 04 : CUDA Toolkit
 
 We also need to install CUDA-Toolkit.  
-- [Download CUDA Toolkit ]([https://www.anaconda.com/download](https://developer.nvidia.com/cuda-toolkit-archive)).
+- [Download CUDA Toolkit ](https://developer.nvidia.com/cuda-toolkit-archive)
 
+### STEP 05 : cuDNN
+
+We also need to install cuDNN.  
+- [Download cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)
 
 ---
 
