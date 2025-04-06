@@ -7,13 +7,9 @@ This repository provides a comprehensive guide on how to install and configure a
 
 ---
 
-## 🖥️ System Requirements
+## 🖥️ Step-by-Step Procedure :
 
-- NVIDIA GPU (Maxwell architecture or newer recommended)
-- Windows / Linux
-- At least 8 GB RAM (16+ recommended for deep learning)
-- Sufficient power supply and compatible motherboard (for desktops)
-
+### STEP 01:
 ---
 
 ## ✅ Driver Installation
