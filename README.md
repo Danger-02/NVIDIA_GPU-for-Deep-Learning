@@ -14,6 +14,11 @@ This repository provides a comprehensive guide on how to install and configure a
 We should install the latest version of our GPU's driver. It can be downloaded from:   
 - [NVIDIA GPU Driver Download](https://www.nvidia.com/en-us/drivers/).
 
+### STEP 02 : Visual Studio C++
+
+We need Visual Studio, with C++ installed. By default, C++ is not available with Visual Studio, so make sure to select all C++ options.  
+- [Visual Studio 2022 Community Edition]([https://www.nvidia.com/en-us/drivers/](https://visualstudio.microsoft.com/vs/community/)).
+
 ---
 
 ## ✅ Driver Installation
