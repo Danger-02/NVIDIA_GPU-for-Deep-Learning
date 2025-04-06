@@ -17,7 +17,7 @@ We should install the latest version of our GPU's driver. It can be downloaded f
 ### STEP 02 : Visual Studio C++
 
 We need Visual Studio, with C++ installed. By default, C++ is not available with Visual Studio, so make sure to select all C++ options.  
-- [Visual Studio 2022 Community Edition]([https://www.nvidia.com/en-us/drivers/](https://visualstudio.microsoft.com/vs/community/)).
+- [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/vs/community/)).
 
 ---
 
