@@ -7,7 +7,7 @@ This repository provides a comprehensive guide on how to install and configure a
 
 ---
 
-## 🖥️ Step-by-Step Procedure :
+## ✅ Step-by-Step Procedure :
 
 ### STEP 01 : NVIDIA Driver  
 
@@ -43,3 +43,11 @@ We need to install PyTorch-Cuda supported.
 import torch
 
 print("Number of GPU :",torch.cuda.device_count())
+print("GPU Name :",torch.cuda.get_device_name())
+
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+print("Using Device",device)
+```
+--- 
+### 🖥️ For Reference Youtube Video : 
+- [How to Setup NVIDIA GPU for Deep Learning](https://youtu.be/nATRPPZ5dGE?feature=shared)
