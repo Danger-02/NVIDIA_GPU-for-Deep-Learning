@@ -24,6 +24,12 @@ We need Visual Studio, with C++ installed. By default, C++ is not available with
 We will need Ananconda or Miniconda to install deep learning packages.  
 - [Anaconda Download Site](https://www.anaconda.com/download).
 
+### STEP 04 : CUDA Toolkit
+
+We also need to install CUDA-Toolkit.  
+- [Download CUDA Toolkit ]([https://www.anaconda.com/download](https://developer.nvidia.com/cuda-toolkit-archive)).
+
+
 ---
 
 ## ✅ Driver Installation
